@@ -12,3 +12,4 @@ Train: 1.000, Test: 0.579          <br>
  [ 36  19  33]]                    <br>
  
 
+![Screenshot](accuracy_57_9.png)
